@@ -7,8 +7,8 @@ solo hay 6 titulos  que se crean con #
 ##  Horarios
  Lunes Miercoles Y Viernes  
  
- *************************************************
- 7:00 pm  CDMX
+
+ 7:00 pm  CDMX prueba  aver que pedo  
 
 ## ¿que es lo que veremos?
 
